@@ -1,6 +1,6 @@
 # Mini Shopping Cart
 
-**Name:** John Hope Soltones Maribao
+**Name:** Maribao, John Hope S.
 **Activity:** Laboratory Activity 3 - Building a Mini Shopping Cart with StatefulWidget
 
 ![App screenshot](screenshots/app.png)
